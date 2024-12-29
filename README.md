@@ -24,7 +24,3 @@ Projeto em ASP.NET Core MVC desenvolvido em .NET 8 para gerenciar despesas atrav
 - `Views`: Interface para o usuário interagir com o sistema.
     - Product/Index: Exibe a lista de produtos e o valor final.
     - Product/Create: Formulário para adicionar novos produtos.
-
-### Pacotes
-    "Microsoft.EntityFrameworkCore" Version="8.0.10" 
-    "Microsoft.EntityFrameworkCore.InMemory" Version="8.0.10"
